@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    gap: 15px;
+}
+
+input {
+    height: 20px;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
